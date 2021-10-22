@@ -1,0 +1,15 @@
+# Qualquer bug, chame a Desenvolvedora no Discord
+# Discord: Maria_BR#4870
+#
+# Para receber suporte e retirar dúvidas sobre este plugin, entre em meu Discord
+# Discord: https://discord.gg/rBDYYbg9pb
+
+Fome necessaria: 3 # Quando ele chegar a esse level de fome, ele recebera os efeitos
+
+Efeitos:
+  - 'HEAL:2:10' # Efeito : Duraçao : Level
+  - 'CONFUSION:2:10'
+  - 'BLINDNESS:3:15'
+  
+Enviar mensagem: true
+Mensagem: '&6&lCOMIDA &8➜ &7Você recebeu alguns &fefeitos&7, pois não está se alimentando bem!'
